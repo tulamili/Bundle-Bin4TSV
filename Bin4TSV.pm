@@ -2,8 +2,8 @@ package Bundle::Bin4TSV ;
 use strict ; 
 use warnings ; 
 
-$VERSION = "0.330" ; 
-$DATE = "2021-05-28T16:30+0900" ; 
+$VERSION = "0.340" ; 
+$DATE = "2021-05-29T01:30+09:00" ; 
 
 1 ; 
 
@@ -34,6 +34,8 @@ Bin::Gen::Rand
 Bin::Subtotal
 
 Bin::TSV::Conv
+
+Bin::TSV::Util
 
 Bin::Text::Color::Plus
 
